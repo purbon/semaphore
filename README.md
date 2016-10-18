@@ -2,7 +2,7 @@
 
 This is a *work in progress* gem to use the [ansible semaphore](https://github.com/ansible-semaphore/semaphore) API, check this repository for updates. For now the only documentation is the code itself, keep in mind the API will change in the near feature, as the project evolve.
 
-Ansible Semaphore is an open source alternative to Ansible Tower created in Go and with similar features, check their[github page](https://github.com/ansible-semaphore/semaphore) for more details.
+Ansible Semaphore is an open source alternative to Ansible Tower created in Go and with similar features, check their [github page](https://github.com/ansible-semaphore/semaphore) for more details.
 
 ## Installation
 
